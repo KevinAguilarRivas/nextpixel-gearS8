@@ -1,0 +1,110 @@
+[
+  {
+    "id": "logitech-g-pro-x2-superstrike",
+    "name": "Logitech G Pro X2 Superstrike",
+    "brand": "Logitech",
+    "category": "mouse",
+    "categoryLabel": "Mouse",
+    "description": "Mouse inalámbrico ultraliviano con switches magnéticos de disparo rápido.",
+    "price": 89990,
+    "oldPrice": null,
+    "badge": "Top ventas",
+    "image": "img/products/logitech-g-pro-x2-superstrike.jpg"
+  },
+  {
+    "id": "razer-deathadder-v3",
+    "name": "Razer DeathAdder V3",
+    "brand": "Razer",
+    "category": "mouse",
+    "categoryLabel": "Mouse",
+    "description": "Ergonomía clásica, sensor de 30.000 DPI y 59 g de peso.",
+    "price": 54990,
+    "oldPrice": 64990,
+    "badge": "-15%",
+    "image": "img/products/razer-deathadder-v3.jpg"
+  },
+  {
+    "id": "razer-viper-v3-pro",
+    "name": "Razer Viper V3 Pro",
+    "brand": "Razer",
+    "category": "mouse",
+    "categoryLabel": "Mouse",
+    "description": "El mouse de los pro players: 8000 Hz de polling y batería de 95 horas.",
+    "price": 119990,
+    "oldPrice": null,
+    "badge": "Nuevo",
+    "image": "img/products/razer-viper-v3-pro.jpg"
+  },
+  {
+    "id": "razer-blackwidow-v4-pro",
+    "name": "Razer BlackWidow V4 Pro",
+    "brand": "Razer",
+    "category": "teclado",
+    "categoryLabel": "Teclados",
+    "description": "Teclado mecánico full-size con rueda de comandos y reposamuñecas magnético.",
+    "price": 129990,
+    "oldPrice": null,
+    "badge": "Top ventas",
+    "image": "img/products/razer-blackwidow-v4-pro.jpg"
+  },
+  {
+    "id": "corsair-k70-rgb-pro",
+    "name": "Corsair K70 RGB Pro",
+    "brand": "Corsair",
+    "category": "teclado",
+    "categoryLabel": "Teclados",
+    "description": "Switches mecánicos intercambiables y marco de aluminio de grado militar.",
+    "price": 99990,
+    "oldPrice": 114990,
+    "badge": "-13%",
+    "image": "img/products/corsair-k70-rgb-pro.jpg"
+  },
+  {
+    "id": "logitech-g915-tkl",
+    "name": "Logitech G915 TKL",
+    "brand": "Logitech",
+    "category": "teclado",
+    "categoryLabel": "Teclados",
+    "description": "Teclado inalámbrico de perfil bajo, tamaño compacto sin numpad.",
+    "price": 139990,
+    "oldPrice": null,
+    "badge": null,
+    "image": "img/products/logitech-g915-tkl.jpg"
+  },
+  {
+    "id": "hyperx-cloud-iii",
+    "name": "HyperX Cloud III",
+    "brand": "HyperX",
+    "category": "audifonos",
+    "categoryLabel": "Audífonos",
+    "description": "Audífonos con drivers de 53 mm y hasta 120 horas de batería en modo inalámbrico.",
+    "price": 69990,
+    "oldPrice": null,
+    "badge": "Top ventas",
+    "image": "img/products/hyperx-cloud-iii.jpg"
+  },
+  {
+    "id": "steelseries-arctis-nova-pro",
+    "name": "SteelSeries Arctis Nova Pro",
+    "brand": "SteelSeries",
+    "category": "audifonos",
+    "categoryLabel": "Audífonos",
+    "description": "Cancelación de ruido activa y sonido espacial multiplataforma.",
+    "price": 159990,
+    "oldPrice": 179990,
+    "badge": "-11%",
+    "image": "img/products/steelseries-arctis-nova-pro.jpg"
+  },
+  {
+    "id": "razer-gigantus-v2",
+    "name": "Razer Gigantus V2",
+    "brand": "Razer",
+    "category": "mousepad",
+    "categoryLabel": "Mousepads",
+    "description": "Mousepad XXL de tela con base de goma antideslizante.",
+    "price": 19990,
+    "oldPrice": null,
+    "badge": null,
+    "image": "img/products/razer-gigantus-v2.jpg"
+  }
+]
